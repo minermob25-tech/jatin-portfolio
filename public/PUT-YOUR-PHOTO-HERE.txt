@@ -1,0 +1,1 @@
+Rename your portrait to profile.jpg and place it in this public folder.
